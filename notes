@@ -1,0 +1,40 @@
+sentimental analysis = NLP to determine the emotional undertone of the document
+tools:
+    email
+    blogs
+    suport tickets
+    web chats 
+    forums 
+    comments
+
+types :
+    fine grain
+    intent based
+    emotion detection
+    aspect based(yes/no)
+
+application:
+    brand popularity
+    costomer service 
+    monitoring
+    identifying demographics
+    marketing effort
+
+numpy= numerical python
+pandas = manipulation of tables 
+nltk = natural language processing
+vader = valence awiare dictionary(use of verous lixicon )
+re= regular expression 
+textblobs = process textual data(part speech taging , noun phrases extraction,sentimental,translation,etc)
+wordcloud (word )= popular words are highlighted
+sns = data visualization
+cufflinks = charts can easily created on dataframes
+%matplotlib inline= backend interactivity with fronend
+import plotly.graph_objs as go= fundamental classes of graphs
+
+In a lexicon-based approach, a set of rules is used to map input to output(words)
+
+
+vader = word based model
+roberta pretrained model 
+pipeline model
